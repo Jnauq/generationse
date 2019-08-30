@@ -22,5 +22,3 @@ rootdir = sys.argv[1]
 
 pydcm = pydicom.dcmread(rootdir)
 print(pydcm)
-
-
