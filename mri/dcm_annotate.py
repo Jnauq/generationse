@@ -3,7 +3,6 @@ import pydicom
 import numpy as np
 import cv2
 
-
 #####################################################################################################
 
 # For use with a single DICOM label file containing annotations for multiple different Dicom images.
