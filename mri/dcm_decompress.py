@@ -33,5 +33,4 @@ def decompress(path):
             print(cmdline)
             call(cmdline)
 
-
 decompress(in_dir)
