@@ -13,7 +13,6 @@ import pydicom
 
 ######################################################################################
 
-
 labeldir = '/home/justin/Downloads/learning_group/labels'       # input directory of label dicoms
 save_dir = "/home/justin/Downloads/learning_group/txt"          # save directory
 
