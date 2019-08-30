@@ -12,7 +12,7 @@ import pandas
 #       Output:
 #           a directory tree of nifti files
 
-#  Usage:  python dcm2niix.py
+#  Usage:  python dcmtonii.py
 
 ########################################################################################################
 
