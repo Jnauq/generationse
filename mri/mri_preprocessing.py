@@ -111,3 +111,5 @@ for inputfile in filepathlist:
     if not os.path.exists(regfilename):
         #print("ANTs registration failed on: " + n4filename)
         raise SystemExit("ANTs registration failed on: " + n4filename)
+
+        
