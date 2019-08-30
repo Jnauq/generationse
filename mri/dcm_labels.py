@@ -72,4 +72,3 @@ for x in range(len(i_list)):
     cv2.destroyAllWindows()
 
 
-
