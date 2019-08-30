@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ########################################################################################
-# Create a CSV of the RCH data with filtered results.  Takes input of parent directory.
+# Create a CSV of dicom data with filtered results.  Takes input of parent directory.
 
 #  Input:
 #       csv_name:   filename for csv file
