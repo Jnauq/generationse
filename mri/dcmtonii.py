@@ -16,7 +16,7 @@ import pandas
 
 ########################################################################################################
 
-
+# requires dcm2niix
 dcm2niix = '/usr/bin/dcm2niix'
 
 outdirbase = '/home/justin/testRCH_aug/Nifti'                                   # Output directory for Niftis
